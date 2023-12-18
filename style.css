@@ -55,12 +55,17 @@ main {
 }
 
 .text-transform-container {
-  width: 40%;
+  width: 100%;
   text-align: center;
 }
 
+.text-transform-container h1 {
+  color: #c3151b;
+  font-weight: bold;
+}
+
 .carousel {
-  width: 60%;
+  width: 100%;
 }
 
 .history {
@@ -76,6 +81,7 @@ h1 {
 }
 
 .about {
+  width: 100%;
   background-color: #c3151b;
   color: #fff;
   padding: 2rem;
