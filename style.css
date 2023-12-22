@@ -135,6 +135,11 @@ h1 {
   width: 50px !important;
 }
 
+#instagram {
+  width: 100%;
+  background-color: #c3151b;
+}
+
 .footer {
   padding: 2rem;
   background-color: #c3151b;
