@@ -59,9 +59,10 @@ main {
   text-align: center;
 }
 
-.text-transform-container h1 {
+.text-transform-container h3 {
   color: #c3151b;
   font-weight: bold;
+  margin-top: 2rem;
 }
 
 .carousel {
@@ -181,7 +182,7 @@ h1 {
 
 @media (max-width: 500px) {
   .footer img {
-    width: 100%;
+    width: 50%;
     margin-bottom: 1rem;
   }
 }
